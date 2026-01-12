@@ -1,7 +1,10 @@
-echo "# sususasa" >> README.md
-git init
-git add README.md
-git commit -m "первый коммит"
-git branch -M main
-git remote add origin https://github.com/mixanik2134/sususasa.git
-git push -u origin main
+namespace ConsoleApp18
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
